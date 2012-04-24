@@ -1,8 +1,6 @@
 /*
 * Group 6
 * Harshil Shah 
-* Matt Early 
-* Anjal Ramani
 */
 
 #include <stdio.h>
